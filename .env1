@@ -6,7 +6,7 @@
 NODE_ENV=development
 
 # Put Discord bot token here, you can get it from https://discord.com/developers/applications
-TOKEN=MTA0NTUwODAwNTUxMDI2Njg5MQ.G1nTdx.P_a3oOf002HRph2HNL6vHP6J3QnzGKSNDuAuFM
+TOKEN=MTA0NTUwODAwNTUxMDI2Njg5MQ.GFBp58.tLtnecRUIyncTve7vFBi0hoWEeaFDGOE0LvSd4
 
 # Put the database connection URL here
 # Example for SQLite:
