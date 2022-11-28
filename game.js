@@ -13,10 +13,10 @@ function createServer(req, res) {
     }
 
     switch(path) {
-        case '/about':
+        case '/how':
             doc = fs.readFile(__dirname + '/game.html', fsCallback);
         break;
-        case '/search':
+        case '/why':
             doc = fs.readFile(__dirname + '/11w.htm', fsCallback);
         break;
         default:
@@ -25,4 +25,4 @@ function createServer(req, res) {
     }
 }
 
-app.listen(7463);
+app.listen(80);
